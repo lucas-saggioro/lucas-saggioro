@@ -3,7 +3,7 @@
 <h1 align="center">
  Information Systems Student 💻</h1>
 
-## Olá, eu sou o Lucas Saggioro!
+##
 
 <h3 align="center">Technology Stack</h3>
   <div align="center">
